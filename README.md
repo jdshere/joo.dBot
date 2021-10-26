@@ -7,4 +7,4 @@ https://discord.gg/u99KP3BAAg
 
 # Tutorials:
 
-Part 1: 
+Part 1: https://youtu.be/6DAH2E1hJf0
