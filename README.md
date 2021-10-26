@@ -1,8 +1,8 @@
 # joo.dBot
 
-#  Need Help? Join the discord server!
-#https://discord.gg/u99KP3BAAg
+#Need Help? Join the discord server!
+https://discord.gg/u99KP3BAAg
 
-#  Tutorials:
+#Tutorials:
 
-#Part 1: 
+Part 1: 
