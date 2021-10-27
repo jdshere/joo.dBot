@@ -11,7 +11,7 @@ async def on_ready():
 
 @client.slash_command(guild_ids=[902177990916579399])
 async def ping(ctx):
-  await ctx.respond('pong!')
+  await ctx.respond('pong!!!!!')
 
 
 client.run(os.getenv("token"))
