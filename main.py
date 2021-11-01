@@ -5,11 +5,12 @@ from discord.ext import commands
 
 client = commands.Bot(command_prefix="m!")
 
-
+#Part 1 : The Basics
 @client.slash_command()
 async def ping(ctx):
   await ctx.respond('pong!')
 
+#Part 2 : Embeds
 @client.command()
 async def hello(ctx):
   member = ctx.author
